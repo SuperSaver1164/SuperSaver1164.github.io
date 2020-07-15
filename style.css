@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+li a{
+  padding:5px;
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+li {
+    padding:5px;
+    list-style: none;
+  }
+h4 a {
+  text-decoration: none;
+}
+marquee img {
+  height: 100px;
+  width: 100px;
+}
